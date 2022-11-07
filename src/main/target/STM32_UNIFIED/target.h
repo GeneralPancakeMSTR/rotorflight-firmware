@@ -312,9 +312,9 @@
 #define USE_RX_FLYSKY
 #define USE_RX_FLYSKY_SPI_LED
 
-#undef  USE_OSD
+// #undef  USE_OSD
 #undef  USE_CMS
-#undef  USE_MAX7456
+// #undef  USE_MAX7456
 #undef  USE_DASHBOARD
 #undef  USE_RCDEVICE
 #undef  USE_VTX_CONTROL
