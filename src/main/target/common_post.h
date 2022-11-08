@@ -139,6 +139,7 @@
 #undef USE_VTX_TRAMP
 #undef USE_VTX_SMARTAUDIO
 #undef USE_VTX_TABLE
+#undef USE_VTX_MSP
 #undef USE_VTX_RTC6705
 #endif
 
